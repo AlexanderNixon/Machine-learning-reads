@@ -1,4 +1,4 @@
-# Machine-learning-reads
+# Machine learning reads
 
 Mostly reads and hands-on tutorials on various topics of Machine Learning. These notebooks are mostly complementary for posts in [my medium blog site](https://alexandr-nixon.medium.com/)
 
