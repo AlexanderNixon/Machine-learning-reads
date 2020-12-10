@@ -1,6 +1,6 @@
 # Machine-learning-reads
 
-Mostly reads and hands-on tutorials on various topics of Machine Learning. These notebooks are mostly complementary for the post on [my medium blog site](https://alexandr-nixon.medium.com/)
+Mostly reads and hands-on tutorials on various topics of Machine Learning. These notebooks are mostly complementary for posts in [my medium blog site](https://alexandr-nixon.medium.com/)
 
 ### Recommender systems
 * [Movie-content-based-recommender-using-tf-idf](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Movie-content-based-recommender-using-tf-idf.ipynb)
