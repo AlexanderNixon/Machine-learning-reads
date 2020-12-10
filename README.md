@@ -10,6 +10,7 @@ Mostly reads and hands-on tutorials on various topics of Machine Learning. These
 * [Face-Mask-Detection-YOLOv5](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Face_Mask_Detection_YOLOv5.ipynb)
 
 ### General Machine Learning
+* [Model_versioning_with_MLflow](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Model_versioning_with_MLflow.ipynb)
 * [How-to-encode-ordinal-features](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Encoding_ordinal_features.ipynb)
 
 ### Python
