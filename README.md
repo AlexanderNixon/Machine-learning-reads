@@ -7,11 +7,11 @@ Mostly reads and hands-on tutorials on various topics of Machine Learning. These
 * [Collaborative-filtering-recommenders](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Collaborative-filtering-recommenders.ipynb)
 
 ### Deep Learning
-* [Face_Mask_Detection_YOLOv5](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Face_Mask_Detection_YOLOv5.ipynb)
+* [Face-Mask-Detection-YOLOv5](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Face_Mask_Detection_YOLOv5.ipynb)
 
 ### General Machine Learning
 * [How-to-encode-ordinal-features](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/Encoding_ordinal_features.ipynb)
 
 ### Python
-* [NumPy_indexing_explained](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/NumPy_indexing_explained.ipynb)
+* [NumPy-indexing-explained](https://github.com/AlexanderNixon/Machine-learning-reads/blob/master/NumPy_indexing_explained.ipynb)
 
